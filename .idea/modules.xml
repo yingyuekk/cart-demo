@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/cart/cart.iml" filepath="$PROJECT_DIR$/cart/cart.iml" />
       <module fileurl="file://$PROJECT_DIR$/cart-demo.iml" filepath="$PROJECT_DIR$/cart-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/item/item.iml" filepath="$PROJECT_DIR$/item/item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search/search.iml" filepath="$PROJECT_DIR$/search/search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso/sso.iml" filepath="$PROJECT_DIR$/sso/sso.iml" />
     </modules>
   </component>
 </project>
